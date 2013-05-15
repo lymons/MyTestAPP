@@ -39,6 +39,7 @@
 
 - (void)dealloc
 {
+    // this is a test ....
     self.scrollView = nil;
     self.pageNumLabel = nil;
     if (nil != _containerViews) {
