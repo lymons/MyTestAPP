@@ -25,8 +25,6 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-    
-    // this is a test.
 }
 
 - (IBAction)didPressStartButtonAction:(id)sender
