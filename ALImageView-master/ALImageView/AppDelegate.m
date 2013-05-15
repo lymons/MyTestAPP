@@ -12,6 +12,8 @@
 
 @implementation AppDelegate
 
+// adsfdsfadsf
+
 - (void)dealloc
 {
     [_window release];
