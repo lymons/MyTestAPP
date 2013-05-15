@@ -15,7 +15,7 @@
 #define AL_CONTAINER_VIEW_MARGIN_UP     20.f    //上边界
 #define AL_CONTAINER_VIEW_MARGIN_DOWN   40.f    //下边界
 #define AL_CONTAINER_VIEW_GAP_X    20.f         //水平间距
-#define AL_CONTAINER_VIEW_GAP_Y    16.f         //垂直间距
+#define AL_CONTAINER_VIEW_GAP_Y    16.f         //垂直间距 dsafdsfadsf
 
 @class ALContainerView;
 typedef void (^CSelectIndexBlock)(ALContainerView *cView, NSInteger index);
